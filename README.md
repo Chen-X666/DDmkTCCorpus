@@ -49,7 +49,7 @@ channel|	频道标签
 <img src="https://user-images.githubusercontent.com/55039294/158780362-c48afef9-7e1d-4929-b1a7-2f308e2fdacb.png" width="260px"><img src="https://user-images.githubusercontent.com/55039294/158780565-dec7b2f8-e29c-4b8c-97e4-5e4c08d4c619.png" width="260px"><img src="https://user-images.githubusercontent.com/55039294/158780036-985d0dfc-33ca-4177-addc-3f2308d2c236.png" width="260px">
 
 ## Bullet-screen comment corpus（弹幕语料）
-### 所有属性语料
+### 所有语料
 uploading...
 ### 分类语料
 鬼畜类
@@ -64,7 +64,8 @@ uploading...
 疫情类
 uploading
 
-### 文本属性语料
+### 文本语料
+为了供仅需要文本数据的学者使用，本文也提供了纯文本语料，利于训练语言模型。
 https://pan.bnuz.edu.cn/l/noXqE7 password:bnuz
 | Attribute | type | explanation | Default |
 | ----- | ----- |  ----- |  ----- |
