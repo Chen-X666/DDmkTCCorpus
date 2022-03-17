@@ -66,6 +66,7 @@ uploading
 
 ### 文本语料
 为了供仅需要文本数据的学者使用，本文也提供了纯文本语料，利于训练语言模型。
+
 https://pan.bnuz.edu.cn/l/noXqE7 password:bnuz
 | Attribute | type | explanation | Default |
 | ----- | ----- |  ----- |  ----- |
