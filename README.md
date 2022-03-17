@@ -35,15 +35,34 @@ channel|	频道标签
 
 ## Bullet-screen comment corpus（弹幕语料）
 ### 所有属性语料
+uploading...
+### 分类语料
+鬼畜类
 
+电竞类
 
+动漫类
 ### 文本属性语料
 https://pan.bnuz.edu.cn/l/noXqE7 password:bnuz
-
-
+| Attribute | type | explanation | Default |
+| ----- | ----- |  ----- |  ----- |
+text  | (str) | 弹幕文本。
+dm_time   | (float)  | 弹幕在视频中的位置，单位为秒。| 0.0.
+send_time (float)   | 弹幕发送的时间。Defaults to | time.time().
+crc32_id  (str)     | 弹幕发送者 UID 经 CRC32 算法取摘要后的值。 | None.
+color     |(str)     | 弹幕十六进制颜色 | "ffffff".
+weight    |(int)     | 弹幕在弹幕列表显示的权重  | -1.
+id_       |(int)     | 弹幕 ID | -1.
+id_str    |(str)     | 弹幕字符串 ID  | "".
+action    |(str)     | 暂不清楚 | "".
+mode      |(Mode)    | 弹幕模式  | Mode.FLY.
+font_size |(FontSize)| 弹幕字体大小  | FontSize.NORMAL.
+is_sub    |(bool)    | 是否为字幕弹幕  | False.
+pool      |(int)     | 暂不清楚 | -1.
+attr      |(int)     |暂不清楚 | -1.
 
 ## word2vec model training by 4000w bullet-screen comments（利用4000w弹幕训练的word2vec模型）
-loading...
+uploading...
 
 ## Citation
 Papers are being published...
