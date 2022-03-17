@@ -47,9 +47,9 @@ https://pan.bnuz.edu.cn/l/noXqE7 password:bnuz
 | Attribute | type | explanation | Default |
 | ----- | ----- |  ----- |  ----- |
 text  | (str) | 弹幕文本。
-dm_time   | (float)  | 弹幕在视频中的位置，单位为秒。| 0.0.
-send_time (float)   | 弹幕发送的时间。Defaults to | time.time().
-crc32_id  (str)     | 弹幕发送者 UID 经 CRC32 算法取摘要后的值。 | None.
+dm_time   | (float)  | 弹幕在视频中的位置，单位为秒 | 0.0.
+send_time |(float)   | 弹幕发送的时间 | time.time().
+crc32_id  |(str)     | 弹幕发送者 UID 经 CRC32 算法取摘要后的值 | None.
 color     |(str)     | 弹幕十六进制颜色 | "ffffff".
 weight    |(int)     | 弹幕在弹幕列表显示的权重  | -1.
 id_       |(int)     | 弹幕 ID | -1.
