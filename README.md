@@ -43,9 +43,7 @@ https://pan.bnuz.edu.cn/l/g1ydM2 password:bnuz
 relation	|属于|
 channel|	频道标签
 
-<img src="https://user-images.githubusercontent.com/55039294/158780362-c48afef9-7e1d-4929-b1a7-2f308e2fdacb.png" width="100px">
-<img src="https://user-images.githubusercontent.com/55039294/158780565-dec7b2f8-e29c-4b8c-97e4-5e4c08d4c619.png" width="100px">
-<img src="https://user-images.githubusercontent.com/55039294/158780036-985d0dfc-33ca-4177-addc-3f2308d2c236.png" width="100px">
+<img src="https://user-images.githubusercontent.com/55039294/158780362-c48afef9-7e1d-4929-b1a7-2f308e2fdacb.png" width="320px"><img src="https://user-images.githubusercontent.com/55039294/158780565-dec7b2f8-e29c-4b8c-97e4-5e4c08d4c619.png" width="320px"><img src="https://user-images.githubusercontent.com/55039294/158780036-985d0dfc-33ca-4177-addc-3f2308d2c236.png" width="320px">
 
 ## Bullet-screen comment corpus（弹幕语料）
 ### 所有属性语料
