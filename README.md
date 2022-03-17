@@ -18,7 +18,9 @@ If u have any questions, please contact my email: ChenXinV@outlook.com
 
 ## Video corpus（视频语料）
 2017——2020 播放量大于100w的鬼畜、电竞、动漫视频语料
+
 https://pan.bnuz.edu.cn/l/J5z6nP password:bnuz
+
 | Attribute | explanation |
 | ----- | ----- |
 |Bvno	| 视频识别号 |
