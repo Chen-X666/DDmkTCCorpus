@@ -21,8 +21,6 @@ If u have any questions, please contact my email: ChenXinV@outlook.com
 
 https://pan.bnuz.edu.cn/l/J5z6nP password:bnuz
 
-<img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE3%20%E8%A7%86%E9%A2%91%E5%B1%9E%E6%80%A7%E7%9A%84%E5%85%B3%E8%81%94%E7%B3%BB%E6%95%B0.png" width="300px">
-
 | Attribute | explanation |
 | ----- | ----- |
 |Bvno	| 视频识别号 |
@@ -40,6 +38,8 @@ Coin	|投币数量
 Share	|分享数量
 Like	|喜欢数量
 
+<img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE3%20%E8%A7%86%E9%A2%91%E5%B1%9E%E6%80%A7%E7%9A%84%E5%85%B3%E8%81%94%E7%B3%BB%E6%95%B0.png" width="300px">
+
 ## Video - channel network（视频——频道关系网）
 https://pan.bnuz.edu.cn/l/g1ydM2 password:bnuz
 | Attribute | explanation |
@@ -48,7 +48,7 @@ https://pan.bnuz.edu.cn/l/g1ydM2 password:bnuz
 relation	|属于|
 channel|	频道标签
 
-<img src="https://user-images.githubusercontent.com/55039294/158780362-c48afef9-7e1d-4929-b1a7-2f308e2fdacb.png" width="260px"><img src="https://user-images.githubusercontent.com/55039294/158780565-dec7b2f8-e29c-4b8c-97e4-5e4c08d4c619.png" width="260px"><img src="https://user-images.githubusercontent.com/55039294/158780036-985d0dfc-33ca-4177-addc-3f2308d2c236.png" width="260px">
+<img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE1%20%E7%94%B5%E7%AB%9E%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px"><img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE10%20%E9%AC%BC%E7%95%9C%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px"><img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE11%20%E5%8A%A8%E6%BC%AB%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px">
 
 ## Bullet-screen comment corpus（弹幕语料）
 ### all corpus（所有语料）
