@@ -21,6 +21,8 @@ If u have any questions, please contact my email: ChenXinV@outlook.com
 
 https://pan.bnuz.edu.cn/l/J5z6nP password:bnuz
 
+<img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE3%20%E8%A7%86%E9%A2%91%E5%B1%9E%E6%80%A7%E7%9A%84%E5%85%B3%E8%81%94%E7%B3%BB%E6%95%B0.png" width="260px">
+
 | Attribute | explanation |
 | ----- | ----- |
 |Bvno	| 视频识别号 |
