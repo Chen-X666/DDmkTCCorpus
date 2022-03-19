@@ -87,6 +87,19 @@ is_sub    |(bool)    | 是否为字幕弹幕  | False
 pool      |(int)     | 暂不清楚 | -1
 attr      |(int)     |暂不清楚 | -1
 
+## DanmakuMarked-data（弹幕情感标注数据）
+数据使用utf-8编码，逗号分隔的csv保存
+
+数据分为数字信息、文本信息、标注分类（未标注数据无标注信息）
+
+数字信息包含：弹幕在视频中出现的时间点、展示模式、字号、字体颜色、发送时间、弹幕池编号、发送用户编号、在弹幕数据库中的编号，信息用逗号分隔
+
+标注类别：0高兴、1难过、2愤怒、3惊、4负样本
+
+https://pan.bnuz.edu.cn/l/snpijm password: bnuz
+
+citation: https://github.com/MelkiorOno/DanmakuMarked-data
+
 ## word2vec model training by 4000w bullet-screen comments（利用4000w弹幕训练的word2vec模型）
 uploading...
 
