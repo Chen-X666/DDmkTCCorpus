@@ -1,4 +1,4 @@
-# Open source of the diachronic bullet-screen comments data（弹幕语料开源数据集）
+# Open source of the diachronic bullet-screen comments data（历时弹幕语料开源数据集）
 The project provides open source comment data for researchers to conduct in-depth research on the barrage corpus, which mainly focuses on the subculture bullet-screen comment corpus (including but not limited to the guichu, animation and e-sports type).  
 
 本项目开源弹幕评论数据供科研人员深入研究弹幕语料，语料主要集中在亚文化弹幕语料（包括但不限于鬼畜、动漫与电竞类弹幕）
