@@ -22,7 +22,6 @@ If you use this dataset in your paper, please cite to the paper in the citation,
 
 If u have any questions, please contact my email: ChenXinV@outlook.com
 
-如果您有任何问题，请联系我的邮箱:ChenXinV@outlook.com
 
 ## Citation
 Papers are being published...
