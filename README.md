@@ -24,6 +24,10 @@ If u have any questions, please contact my email: ChenXinV@outlook.com
 
 如果您有任何问题，请联系我的邮箱:ChenXinV@outlook.com
 
+## Citation
+Papers are being published...
+论文正在发表...
+
 ## Video corpus（视频语料）
 2017——2020 播放量大于100w的鬼畜、电竞、动漫视频语料
 
@@ -111,6 +115,4 @@ citation: https://github.com/MelkiorOno/DanmakuMarked-data
 ## word2vec model training by 4000w bullet-screen comments（利用4000w弹幕训练的word2vec模型）
 uploading...
 
-## Citation
-Papers are being published...
-论文正在发表...
+
