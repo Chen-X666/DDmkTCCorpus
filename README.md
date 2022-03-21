@@ -12,15 +12,13 @@ Now, this project only releases a little bit of corpus. After the paper publish,
 
 现在，这个项目只发布了少量的语料库。论文发表后，所有的语料库都将发布
 
-If u have any questions, please contact my email: ChenXinV@outlook.com. 
+If you use this dataset in your paper, please cite to the paper in the citation, thx!
 
 如果您在论文使用了该数据集，请引用citation中论文,谢谢！
 
-If you use this dataset in your paper, please cite to the paper in the citation, thx!
+If u have any questions, please contact my email: ChenXinV@outlook.com
 
 如果您有任何问题，请联系我的邮箱:ChenXinV@outlook.com
-
-If u have any questions, please contact my email: ChenXinV@outlook.com
 
 
 ## Citation
