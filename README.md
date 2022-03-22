@@ -1,25 +1,23 @@
 # 📕Open source of the diachronic bullet-screen comments data（历时弹幕语料开源数据集）
-The project provides open source comment data for researchers to conduct in-depth research on the barrage corpus, which mainly focuses on the subculture bullet-screen comment corpus (including but not limited to the guichu, animation and e-sports type).  
+1️⃣ The project provides open source comment data for researchers to conduct in-depth research on the barrage corpus, which mainly focuses on the subculture bullet-screen comment corpus (including but not limited to the guichu, animation and e-sports type).  
 
 本项目开源弹幕评论数据供科研人员深入研究弹幕语料，语料主要集中在亚文化弹幕语料（包括但不限于鬼畜、动漫与电竞类弹幕）
 
-
-Corpus is maintained by Xin, Chen (Beijing Normal University, Zhuhai, China).
+2️⃣ Corpus is maintained by Xin, Chen (Beijing Normal University, Zhuhai, China).
 
 语料库由陈鑫(北京师范大学，中国珠海)维护。
 
-Now, this project only releases a little bit of corpus. After the paper publish, all the corpus would release. 
+3️⃣ Now, this project only releases a little bit of corpus. After the paper publish, all the corpus would release. 
 
 现在，这个项目只发布了少量的语料库。论文发表后，所有的语料库都将发布
 
-If you use this dataset in your paper, please cite to the paper in the citation, thx!
-
-如果您在论文使用了该数据集，请引用citation中论文,谢谢！
-
-If u have any questions, please contact my email: ChenXinV@outlook.com
+4️⃣ If u have any questions, please contact my email: ChenXinV@outlook.com
 
 如果您有任何问题，请联系我的邮箱:ChenXinV@outlook.com
 
+❗❗❗ If you use this dataset in your paper, please cite to the paper in the citation, thx!
+
+如果您在论文使用了该数据集，请引用citation中论文,谢谢！
 
 ## Citation
 Papers are being published...
