@@ -74,9 +74,9 @@ uploading...
 uploading
 
 ### Text corpus（文本语料）
-为了供仅需要文本数据的学者使用，本文也提供了纯文本语料，利于训练语言模型。
+为了供仅需要文本数据的学者使用，本文也提供了纯文本语料，利于训练各种语言模型，同时本文开源了经4000w弹幕训练的word2vec模型。
 
-https://pan.bnuz.edu.cn/l/noXqE7 password:bnuz
+uploading...
 | Attribute | type | explanation | Default |
 | ----- | ----- |  ----- |  ----- |
 text  | (str) | 弹幕文本
