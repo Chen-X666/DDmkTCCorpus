@@ -20,8 +20,8 @@
 如果您在论文使用了该数据集，请引用citation中论文,谢谢！
 
 ## Citation
-Papers are being published...
-论文正在发表...
+Papers will publish on Information Research in Oct.If u wanna use it advanctly, please contact me.
+论文将于10月在《信息研究》上发表...如果您想提前使用，请与我联系。
 
 ## Video corpus（视频语料）
 2017——2020 播放量大于100w的鬼畜、电竞、动漫视频语料
