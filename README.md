@@ -20,9 +20,7 @@
 如果您在论文使用了该数据集，请引用citation中论文,谢谢！
 
 ## Citation
-Papers will publish on Information Research in Oct.If u wanna use it advanctly, please contact me.
-
-论文将于10月在《信息研究》上发表...如果您想提前使用，请与我联系。
+陈鑫,张以欣,吴俊潮,郭凌宇,余泽汇,杨静.历时弹幕语料库的构建与探析——以青年亚文化弹幕为例[J].情报探索,2022,No.299(09):77-85.
 
 ## Video corpus（视频语料）
 2017——2020 播放量大于100w的鬼畜、电竞、动漫视频语料
