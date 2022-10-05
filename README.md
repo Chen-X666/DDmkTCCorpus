@@ -61,21 +61,25 @@ channel|	频道标签
 uploading...
 ### Classification of corpus （分类语料）
 鬼畜类
-uploading...
+https://pan.bnuz.edu.cn/l/pn3Yj5(密码：bnuz)
 
 电竞类
-uploading...
+https://pan.bnuz.edu.cn/l/I510mH(密码：bnuz)
 
 动漫类
-uploading...
+https://pan.bnuz.edu.cn/l/toTTtQ(密码：bnuz)
 
 疫情类
-uploading
+https://pan.bnuz.edu.cn/l/aoMMOM(密码：bnuz)
+https://pan.bnuz.edu.cn/l/onFbAO(密码：bnuz)
+https://pan.bnuz.edu.cn/l/QJGkNF(密码：bnuz)
 
 ### Text corpus（文本语料）
 为了供仅需要文本数据的学者使用，本文也提供了纯文本语料，利于训练各种语言模型，同时本文开源了经4000w弹幕训练的word2vec模型。
 
-uploading...
+https://pan.bnuz.edu.cn/l/r1Kkfd(密码：bnuz)
+
+
 | Attribute | type | explanation | Default |
 | ----- | ----- |  ----- |  ----- |
 text  | (str) | 弹幕文本
