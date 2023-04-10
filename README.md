@@ -13,9 +13,7 @@
 
 
 ## Video corpus
-The video corpus were more than 1 milions plays during the years from 2017 to 2020.
-https://pan.bnuz.edu.cn/l/J5z6nP password:bnuz
-
+The video corpus were more than 1 milions plays during the years from 2017 to 2020. The attributes can be as follow.
 | Attribute | explanation |
 | ----- | ----- |
 |Bvno	| 视频识别号 |
@@ -32,6 +30,8 @@ Favorite	|收藏数量
 Coin	|投币数量
 Share	|分享数量
 Like	|喜欢数量
+
+Source: https://pan.bnuz.edu.cn/l/J5z6nP password:bnuz
 
 <img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE3%20%E8%A7%86%E9%A2%91%E5%B1%9E%E6%80%A7%E7%9A%84%E5%85%B3%E8%81%94%E7%B3%BB%E6%95%B0.png" width="300px">
 
@@ -64,10 +64,9 @@ font_size |(FontSize)| 弹幕字体大小  | FontSize.NORMAL
 is_sub    |(bool)    | 是否为字幕弹幕  | False
 pool      |(int)     | 暂不清楚 | -1
 attr      |(int)     |暂不清楚 | -1
-### all corpus
+### All corpus
 uploading...
 ### Classification of corpus 
-
 
 鬼畜类
 https://pan.bnuz.edu.cn/l/pn3Yj5(密码：bnuz)
