@@ -1,28 +1,18 @@
-# 📕Open source of the diachronic bullet-screen comments data（历时弹幕语料开源数据集）
-1️⃣ The project provides open source comment data for researchers to conduct in-depth research on the barrage corpus, which mainly focuses on the subculture bullet-screen comment corpus (including but not limited to the guichu, animation and e-sports type).  
+<div align="center"><img src="https://avatars.githubusercontent.com/u/128916285?s=400&u=8ea76106ce0018439d6d6414b26aea62680712d6&v=4" height="100px"/></div>
 
-本项目开源弹幕评论数据供科研人员深入研究弹幕语料，语料主要集中在亚文化弹幕语料（包括但不限于鬼畜、动漫与电竞类弹幕）
+<h2 align="center"> 📕DBsCCorpus: Diachronic Bullet-screen Comments Corpus</h2>
 
-2️⃣ Corpus is maintained by Xin, Chen (Beijing Normal University, Zhuhai, China).
+<h4 align="center">
+    <a href="https://github.com/DBsCCorpus">中文</a> |
+    <a href="https://github.com/DBsCCorpus">English</a>
+</h4>
 
-语料库由陈鑫(北京师范大学，中国珠海)维护。
+1️⃣ The project provides open source comment data for researchers to conduct in-depth research on the bullet-screen corpus, which mainly focuses on the subculture bullet-screen comment corpus (including but not limited to the guichu, animation and e-sports type).  
 
-3️⃣ Now, this project only releases a little bit of corpus. After the paper publish, all the corpus would release. 
+2️⃣ Corpus is maintained by TinyTalks, a Community for NLP research in Short Text in Chinese. 
 
-现在，这个项目只发布了少量的语料库。论文发表后，所有的语料库都将发布
 
-4️⃣ If u have any questions, please contact my email: ChenXinV@outlook.com
-
-如果您有任何问题，请联系我的邮箱:ChenXinV@outlook.com
-
-❗❗❗ If you use this dataset in your paper, please cite to the paper in the citation, thx!
-
-如果您在论文使用了该数据集，请引用citation中论文,谢谢！
-
-## Citation
-陈鑫,张以欣,吴俊潮,郭凌宇,余泽汇,杨静.历时弹幕语料库的构建与探析——以青年亚文化弹幕为例[J].情报探索,2022,No.299(09):77-85.
-
-## Video corpus（视频语料）
+## Video corpus
 2017——2020 播放量大于100w的鬼畜、电竞、动漫视频语料
 
 https://pan.bnuz.edu.cn/l/J5z6nP password:bnuz
@@ -115,4 +105,20 @@ citation: https://github.com/MelkiorOno/DanmakuMarked-data
 ## word2vec model training by 4000w bullet-screen comments（利用4000w弹幕训练的word2vec模型）
 uploading...
 
+## Citation
 
+If you use this corpus in your research, please cite this repository.
+
+```bibtex
+@article{
+ QBTS202209010,
+ author = {陈鑫,张以欣,吴俊潮,郭凌宇,余泽汇 & 杨静},
+ title = {历时弹幕语料库的构建与探析——以青年亚文化弹幕为例},
+ journal = {情报探索},
+ volume = {No.299},
+ number = {77-85},
+ year = {2022},
+ issn = {1005-8095},
+ doi ={}
+ }
+```
