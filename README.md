@@ -46,9 +46,7 @@ channel|	频道标签
 <img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE1%20%E7%94%B5%E7%AB%9E%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px"><img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE10%20%E9%AC%BC%E7%95%9C%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px"><img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE11%20%E5%8A%A8%E6%BC%AB%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px">
 
 ## Bullet-screen comment corpus
-### all corpus
-uploading...
-### Classification of corpus 
+The attributes detail can as follow.
 
 | Attribute | type | explanation | Default |
 | ----- | ----- |  ----- |  ----- |
@@ -66,6 +64,9 @@ font_size |(FontSize)| 弹幕字体大小  | FontSize.NORMAL
 is_sub    |(bool)    | 是否为字幕弹幕  | False
 pool      |(int)     | 暂不清楚 | -1
 attr      |(int)     |暂不清楚 | -1
+### all corpus
+uploading...
+### Classification of corpus 
 
 
 鬼畜类
