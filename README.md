@@ -13,8 +13,7 @@
 
 
 ## Video corpus
-2017——2020 播放量大于100w的鬼畜、电竞、动漫视频语料
-
+The video corpus were more than 1 milions plays during the years from 2017 to 2020.
 https://pan.bnuz.edu.cn/l/J5z6nP password:bnuz
 
 | Attribute | explanation |
@@ -36,7 +35,7 @@ Like	|喜欢数量
 
 <img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE3%20%E8%A7%86%E9%A2%91%E5%B1%9E%E6%80%A7%E7%9A%84%E5%85%B3%E8%81%94%E7%B3%BB%E6%95%B0.png" width="300px">
 
-## Video - channel network（视频——频道关系网）
+## Video - channel network
 https://pan.bnuz.edu.cn/l/g1ydM2 password:bnuz
 | Attribute | explanation |
 | ----- | ----- |
@@ -46,31 +45,10 @@ channel|	频道标签
 
 <img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE1%20%E7%94%B5%E7%AB%9E%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px"><img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE10%20%E9%AC%BC%E7%95%9C%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px"><img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE11%20%E5%8A%A8%E6%BC%AB%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px">
 
-## Bullet-screen comment corpus（弹幕语料）
-### all corpus（所有语料）
+## Bullet-screen comment corpus
+### all corpus
 uploading...
-### Classification of corpus （分类语料）
-鬼畜类
-https://pan.bnuz.edu.cn/l/pn3Yj5(密码：bnuz)
-
-电竞类
-https://pan.bnuz.edu.cn/l/I510mH(密码：bnuz)
-
-动漫类
-https://pan.bnuz.edu.cn/l/toTTtQ(密码：bnuz)
-
-疫情类
-https://pan.bnuz.edu.cn/l/aoMMOM(密码：bnuz)
-
-https://pan.bnuz.edu.cn/l/onFbAO(密码：bnuz)
-
-https://pan.bnuz.edu.cn/l/QJGkNF(密码：bnuz)
-
-### Text corpus（文本语料）
-为了供仅需要文本数据的学者使用，本文也提供了纯文本语料，利于训练各种语言模型，同时本文开源了经4000w弹幕训练的word2vec模型。
-
-https://pan.bnuz.edu.cn/l/r1Kkfd(密码：bnuz)
-
+### Classification of corpus 
 
 | Attribute | type | explanation | Default |
 | ----- | ----- |  ----- |  ----- |
@@ -88,6 +66,29 @@ font_size |(FontSize)| 弹幕字体大小  | FontSize.NORMAL
 is_sub    |(bool)    | 是否为字幕弹幕  | False
 pool      |(int)     | 暂不清楚 | -1
 attr      |(int)     |暂不清楚 | -1
+
+
+鬼畜类
+https://pan.bnuz.edu.cn/l/pn3Yj5(密码：bnuz)
+
+电竞类
+https://pan.bnuz.edu.cn/l/I510mH(密码：bnuz)
+
+动漫类
+https://pan.bnuz.edu.cn/l/toTTtQ(密码：bnuz)
+
+疫情类
+https://pan.bnuz.edu.cn/l/aoMMOM(密码：bnuz)
+
+https://pan.bnuz.edu.cn/l/onFbAO(密码：bnuz)
+
+https://pan.bnuz.edu.cn/l/QJGkNF(密码：bnuz)
+
+### Text corpus
+In order to be used by scholars who only need textual data, this paper also provides a plain text corpus, which is useful for training various language models。
+
+https://pan.bnuz.edu.cn/l/r1Kkfd(密码：bnuz)
+
 
 ## DanmakuMarked-data（弹幕情感标注数据）
 数据使用utf-8编码，逗号分隔的csv保存
