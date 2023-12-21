@@ -103,9 +103,6 @@ https://pan.bnuz.edu.cn/l/snpijm password: bnuz
 
 citation: https://github.com/MelkiorOno/DanmakuMarked-data
 
-## word2vec model training by 4000w bullet-screen comments（利用4000w弹幕训练的word2vec模型）
-uploading...
-
 ## Citation
 
 If you use this corpus in your research, please cite this repository.
