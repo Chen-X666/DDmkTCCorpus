@@ -15,7 +15,6 @@
 - [Video-Channel Network](#video-channel-network)
 - [Danmaku Comment Corpus](#danmaku-comment-corpus)
     - [Classification of Corpus](#classification-of-corpus)
-    - [Text of Corpus](#text-corpus)
 - [Danmaku Language Models](#danmaku-language-models)
 - [Danmaku Marked Data](#danmaku-marked-data)
 - [Citation](#citation)
@@ -74,14 +73,13 @@ pool      |(int)     | 暂不清楚 | -1
 attr      |(int)     |暂不清楚 | -1
 ### Classification of Corpus 
 
-鬼畜类
-https://pan.bnuz.edu.cn/l/pn3Yj5(密码：bnuz)
+| Type | Original Source | Text Source | Password |
+|:----:|:---------------:|:-----------:|:----:|
+| 鬼畜 | [![Static Badge](https://img.shields.io/badge/dataset-blue)](https://pan.bnuz.edu.cn/l/pn3Yj5) | [![Static Badge](https://img.shields.io/badge/dataset-blue)](https://pan.bnuz.edu.cn/l/r1Kkfd) |   bnuz  |
+| 电竞 | [![Static Badge](https://img.shields.io/badge/dataset-blue)](https://pan.bnuz.edu.cn/l/I510mH) | [![Static Badge](https://img.shields.io/badge/dataset-blue)](https://pan.bnuz.edu.cn/l/r1Kkfd) |   bnuz  |
+| 动漫 | [![Static Badge](https://img.shields.io/badge/dataset-blue)](https://pan.bnuz.edu.cn/l/toTTtQ) | [![Static Badge](https://img.shields.io/badge/dataset-blue)](https://pan.bnuz.edu.cn/l/r1Kkfd) |   bnuz  |
+| 疫情 | [![Static Badge](https://img.shields.io/badge/dataset-blue)](https://pan.bnuz.edu.cn/l/toTTtQ) | [![Static Badge](https://img.shields.io/badge/dataset-blue)](https://pan.bnuz.edu.cn/l/r1Kkfd) |   bnuz  |
 
-电竞类
-https://pan.bnuz.edu.cn/l/I510mH(密码：bnuz)
-
-动漫类
-https://pan.bnuz.edu.cn/l/toTTtQ(密码：bnuz)
 
 疫情类
 https://pan.bnuz.edu.cn/l/aoMMOM(密码：bnuz)
@@ -90,10 +88,6 @@ https://pan.bnuz.edu.cn/l/onFbAO(密码：bnuz)
 
 https://pan.bnuz.edu.cn/l/QJGkNF(密码：bnuz)
 
-### Text Corpus
-In order to be used by scholars who only need textual data, this paper also provides a plain text corpus, which is useful for training various language models。
-
-https://pan.bnuz.edu.cn/l/r1Kkfd(密码：bnuz)
 
 ## Danmaku Language Models
 
