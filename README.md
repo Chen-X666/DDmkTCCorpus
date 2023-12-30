@@ -96,12 +96,10 @@ In order to be used by scholars who only need textual data, this paper also prov
 https://pan.bnuz.edu.cn/l/r1Kkfd(密码：bnuz)
 
 ## Danmaku Language Models
-chinese_danmaku_roberta
-- This model is a fine-tuned version of uer/chinese_roberta_L-8_H-512 on an Danmaku Corpus(2000k raw data) dataset.
 
-| Mdeols | Mask Accuracy | Link |
-|:-----:|:-------------:|:-----:|
-| chinese_danmaku_roberta | 0.7780 | [![Static Badge](https://img.shields.io/badge/huggingface-yellow)](https://huggingface.co/WUJUNCHAO/chinese_danmaku_roberta)     |
+| Mdeols | Description | Mask Accuracy | Link |
+|:-----:|:-------------:|:-----:|:-----:|
+| chinese_danmaku_roberta | fine-tuned version of uer/chinese_roberta_L-8_H-512 on an Danmaku Corpus(2000k raw data) dataset. | 0.7780 | [![Static Badge](https://img.shields.io/badge/huggingface-yellow)](https://huggingface.co/WUJUNCHAO/chinese_danmaku_roberta)     |
 
 
 ## Danmaku Marked Data
