@@ -7,12 +7,19 @@
     <a href="https://github.com/DBsCCorpus">English</a>
 </h4>
 
-1️⃣ The project provides open source comment data for researchers to conduct in-depth research on the bullet-screen corpus, which mainly focuses on the subculture bullet-screen comment corpus (including but not limited to the guichu, animation and e-sports type).  
+1️⃣ The project provides open-source comment data for researchers to conduct in-depth research on the Danmaku corpus, which mainly focuses on the subculture bullet-screen comment corpus (including but not limited to the Guichu, animation and e-sports type).  
 
 2️⃣ Corpus is maintained by TinyTalks, a Community for NLP research in Short Text in Chinese. 
+## Table of Contents
+ - [Video Corpus](#video-corpus)
+ - [Video - Channel Network](#video-channel-network)
+ - [Danmaku Comment Corpus](#danmaku-comment-corpus)
+ - [Danmaku Language Models](#danmaku-language-models)
+ - [Danmaku Marked Data](#danmaku-marked-data)
+ - [Citation](#citation)
 
 
-## Video corpus
+## Video Corpus
 The video corpus were more than 1 milions plays during the years from 2017 to 2020. The attributes can be as follow.
 | Attribute | explanation |
 | ----- | ----- |
@@ -34,7 +41,7 @@ Like	|喜欢数量
 Source: https://pan.bnuz.edu.cn/l/J5z6nP password:bnuz
 
 
-## Video - channel network
+## Video - Channel Network
 https://pan.bnuz.edu.cn/l/g1ydM2 password:bnuz
 | Attribute | explanation |
 | ----- | ----- |
@@ -44,7 +51,7 @@ channel|	频道标签
 
 <img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE1%20%E7%94%B5%E7%AB%9E%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px"><img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE10%20%E9%AC%BC%E7%95%9C%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px"><img src="https://github.com/Chen-X666/bullet-screenCorpus/blob/main/%E5%9B%BE11%20%E5%8A%A8%E6%BC%AB%E7%B1%BB%E5%9E%8B%E9%A2%91%E9%81%93%E5%85%B3%E7%B3%BB%E7%BD%91%E5%9B%BE.png" width="260px">
 
-## Bullet-screen comment corpus
+## Danmaku Comment Corpus
 The attributes detail can as follow.
 
 | Attribute | type | explanation | Default |
@@ -63,8 +70,6 @@ font_size |(FontSize)| 弹幕字体大小  | FontSize.NORMAL
 is_sub    |(bool)    | 是否为字幕弹幕  | False
 pool      |(int)     | 暂不清楚 | -1
 attr      |(int)     |暂不清楚 | -1
-### All corpus
-uploading...
 ### Classification of corpus 
 
 鬼畜类
